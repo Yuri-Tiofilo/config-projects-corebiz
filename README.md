@@ -17,3 +17,9 @@ EX: ELG -> yarn dev
 [Charles] -> No Charles temos a mesma configuração que neste caso é mandar para a pasta dist o MAP LOCAL. Mesmas configuração que já foi feita no padawan.
 
 Após isso podesse dar o comando de CTRL + F5 no site para que as configurações do projeto e as configs funcionem.
+
+## Padrão de commit
+
+````
+git commit -m "fix/feature (page change): message in english (number task) "
+````
