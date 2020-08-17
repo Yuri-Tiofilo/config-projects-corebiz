@@ -11,7 +11,7 @@ Iniciasse geralmente antes de tudo ao abrir o projeto, deve-se colocar na branch
 Dependendo do projeto e do package.json deve ser visto qual o comando para iniciar o projeto.
 
 ````
-ELG -> yarn dev
+EX: ELG -> yarn dev
 ````
 
 [Charles] -> No Charles temos a mesma configuração que neste caso é mandar para a pasta dist o MAP LOCAL. Mesmas configuração que já foi feita no padawan.
