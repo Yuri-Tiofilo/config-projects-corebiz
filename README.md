@@ -1,4 +1,4 @@
-## Se ambientalizando com o a VTEX
+## Se ambientalizando de desenvolvimento Corebiz
 
 ### Iniciando o projeto
 
