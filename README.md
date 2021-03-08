@@ -27,5 +27,5 @@ git commit -m "fix/feat(page change): message in english (number task) "
 ## Padrão de commit quando vai trocar a versão:
 
 ````
-git commit -m "feat (general): update version (n-task)
+git commit -m "feat (general): update version (n-task)"
 ````
