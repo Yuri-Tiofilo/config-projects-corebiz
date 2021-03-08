@@ -21,7 +21,7 @@ Após isso podesse dar o comando de CTRL + F5 no site para que as configuraçõe
 ## Padrão de commit
 
 ````
-git commit -m "fix/feature (page change): message in english (number task) "
+git commit -m "fix/feat(page change): message in english (number task) "
 ````
 
 ## Padrão de commit quando vai trocar a versão (ainda na develop):
